@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<paths>
+    <external-path
+        name="imaginest_reports"
+        path="GubbiConnect/Reports/" />
+    <external-path
+        name="imaginest_docs"
+        path="GubbiConnect/" />
+</paths>

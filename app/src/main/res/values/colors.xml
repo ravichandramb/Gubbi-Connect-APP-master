@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#ea5c36</color>
+    <color name="colorPrimaryDark">#d15230</color>
+    <color name="colorAccent">#634e42</color>
+
+    <color name="colorLinkedin">#0077B5</color>
+    <color name="colorFacebook">#3b5998</color>
+    <color name="gray">#A9A9A9</color>
+    <color name="white">#fff</color>
+    <color name="black">#000</color>
+    <color name="textColor">#2D2D2D</color>
+    <color name="textplaceholdColor">#858585</color>
+
+    <color name="divederColor">#DDDDDD</color>
+    <color name="yellow">#FFDB35</color>
+    <color name="bgColor">#F2F2F2</color>
+    <color name="overlayColor">#AA000000</color>
+
+    <color name="sub_title">#454343</color>
+    <color name="rect_border">#02b8fa</color>
+    <color name="green">#04870b</color>
+    <color name="light_gray">#d1dbddde</color>
+    <color name="gray_very_light">#d1dbddde</color>
+    <color name="login_bg">#F7EDD5</color>
+
+    <color name="progress_red">#d90f19</color>
+    <color name="progress_orange">#ff9d00</color>
+    <color name="progress_green">#0dbf3c</color>
+
+
+    <color name="feedback">#ff3300</color>
+
+</resources>

@@ -1,0 +1,123 @@
+{
+  "project_info": {
+    "project_number": "896609033641",
+    "firebase_url": "https://mygubbi.firebaseio.com",
+    "project_id": "firebase-mygubbi",
+    "storage_bucket": "firebase-mygubbi.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:896609033641:android:51ac58a1b1814868",
+        "android_client_info": {
+          "package_name": "com.mygubbi.imaginestclientconnect"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "896609033641-g1ftmtn05uh6m18degs2uvf538nv7uip.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mygubbi.imaginestclientconnect",
+            "certificate_hash": "5997dfa586dcf71f2208fb65650d605706016c30"
+          }
+        },
+        {
+          "client_id": "896609033641-osbrj9pghscvov0artinkpsedn3uvff3.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mygubbi.imaginestclientconnect",
+            "certificate_hash": "44929dfe956527ed65d5e7cfb49fedff2006b519"
+          }
+        },
+        {
+          "client_id": "896609033641-ifra0o5oh3nk2gndjukbhigtiv0o0bk3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD34bvtGPHoArun0S8N2e-J3PnvGVQV1mc"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "896609033641-ifra0o5oh3nk2gndjukbhigtiv0o0bk3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:896609033641:android:8017d2a3ad1fd81c",
+        "android_client_info": {
+          "package_name": "com.mygubbi.imaginestt"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "896609033641-ng8hdq769lbbb1m8b24ht0m2i7dbmhr7.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mygubbi.imaginestt",
+            "certificate_hash": "58f559967fbcb6c2203aa9ef24268543804e9249"
+          }
+        },
+        {
+          "client_id": "896609033641-dv0v7ri7ga4ac46pkaus7kmvap6on1vc.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mygubbi.imaginestt",
+            "certificate_hash": "5997dfa586dcf71f2208fb65650d605706016c30"
+          }
+        },
+        {
+          "client_id": "896609033641-keromli146r4151qm5hquthac60e8glh.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mygubbi.imaginestt",
+            "certificate_hash": "596b2181dd8d7229cd8fef5840c46a833089de8c"
+          }
+        },
+        {
+          "client_id": "896609033641-ifra0o5oh3nk2gndjukbhigtiv0o0bk3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD34bvtGPHoArun0S8N2e-J3PnvGVQV1mc"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "896609033641-ifra0o5oh3nk2gndjukbhigtiv0o0bk3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

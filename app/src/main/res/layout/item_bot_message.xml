@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/rl_user_chat"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:layout_marginEnd="8dp"
+    android:layout_marginStart="8dp"
+    android:background="@color/bgColor"
+    android:gravity="start"
+    android:orientation="horizontal"
+    android:visibility="visible">
+
+    <RelativeLayout
+        style="@style/list_item_icon"
+        android:layout_marginTop="10dp">
+
+        <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:padding="5dp"
+            android:src="@drawable/imaginest" />
+
+    </RelativeLayout>
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="5dp"
+        android:paddingBottom="2dp"
+        android:paddingTop="12dp">
+
+        <TextView
+            android:id="@+id/text_content"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:background="@drawable/user_chat_bg"
+            android:padding="8dp"
+            android:text="@string/app_name"
+            android:textColor="#212121" />
+
+    </RelativeLayout>
+
+</LinearLayout>
